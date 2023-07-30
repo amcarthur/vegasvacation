@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5a433c8.css",
+    "main.js": "/static/js/main.45f05712.js",
+    "static/js/787.0d595e1f.chunk.js": "/static/js/787.0d595e1f.chunk.js",
+    "static/media/jason.png": "/static/media/jason.852b53fb21b99dea0659.png",
+    "static/media/trevor.png": "/static/media/trevor.25887e744e012650d877.png",
+    "static/media/squirrel.jpg": "/static/media/squirrel.c94a5e51a841b49251a5.jpg",
+    "static/media/NeonLight-Regular.woff2": "/static/media/NeonLight-Regular.8858da9a6e11f7d088f6.woff2",
+    "index.html": "/index.html",
+    "main.e5a433c8.css.map": "/static/css/main.e5a433c8.css.map",
+    "main.45f05712.js.map": "/static/js/main.45f05712.js.map",
+    "787.0d595e1f.chunk.js.map": "/static/js/787.0d595e1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a433c8.css",
+    "static/js/main.45f05712.js"
+  ]
+}
